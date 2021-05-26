@@ -1,0 +1,9 @@
+D:\advanced software\Command parser\Command parser\bin\Debug\Command parser.exe.config
+D:\advanced software\Command parser\Command parser\bin\Debug\Command parser.exe
+D:\advanced software\Command parser\Command parser\bin\Debug\Command parser.pdb
+D:\advanced software\Command parser\Command parser\obj\Debug\Command_parser.Form1.resources
+D:\advanced software\Command parser\Command parser\obj\Debug\Command_parser.Properties.Resources.resources
+D:\advanced software\Command parser\Command parser\obj\Debug\Command parser.csproj.GenerateResource.cache
+D:\advanced software\Command parser\Command parser\obj\Debug\Command parser.csproj.CoreCompileInputs.cache
+D:\advanced software\Command parser\Command parser\obj\Debug\Command parser.exe
+D:\advanced software\Command parser\Command parser\obj\Debug\Command parser.pdb

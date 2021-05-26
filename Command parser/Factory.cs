@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Command_parser
 {
-    class Factory:Creator
+ class Factory : Creator
     {
         public override Ishape getShape(string shapeType)
         {
@@ -38,4 +38,4 @@ namespace Command_parser
         }
     }
 }
-}
+
