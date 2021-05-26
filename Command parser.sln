@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command parser", "Command parser\Command parser.csproj", "{5BF0F70C-079D-4C7C-90E2-53CBF72CA89D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BF0F70C-079D-4C7C-90E2-53CBF72CA89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF0F70C-079D-4C7C-90E2-53CBF72CA89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF0F70C-079D-4C7C-90E2-53CBF72CA89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF0F70C-079D-4C7C-90E2-53CBF72CA89D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A72C1B2-A9FE-414D-A0B8-1C801D74CC81}
+	EndGlobalSection
+EndGlobal
